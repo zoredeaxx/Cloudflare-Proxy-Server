@@ -5,5 +5,6 @@
 * Source: [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)
 * [Alpha](https://alpha.cloudflareproxy.workers.dev)
 * [Beta](https://beta.cloudflareproxy.workers.dev)
+* [API Source](https://github.com/jscdn/proxyapi)
 
 Based on Open Source Softwares.
