@@ -3,7 +3,7 @@
 /**
  * static files (404.html, sw.js, conf.js)
  */
-const ASSET_URL = 'https://api.bhadoo.tk'
+const ASSET_URL = 'https://redop1189.github.io/proxyapi'
 
 const JS_VER = 10
 const MAX_RETRY = 1
